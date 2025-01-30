@@ -130,4 +130,3 @@ STATICFILES_DIRS = [STATIC_DIR, ]
 
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
-# MEDIA_ROOT = 'C:/Users/Ben/Desktop/WAD/Rango/tango_with_django_project/media'
